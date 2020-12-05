@@ -1,0 +1,14 @@
+
+.items{
+  margin:20px;
+  background-color: #9c166a;
+  color: #fff;
+  padding: 15px;
+  font-size: 20px;
+  font-family: Calibri;
+}
+
+.trash{
+  float:right;
+  cursor: pointer;
+}
